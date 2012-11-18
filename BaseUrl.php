@@ -4,10 +4,10 @@
  * mídia e dos links da aplicação, transformando-os em links absolutos
  * 
  * @copyright  	Copyright (c) 2012 - Frontise Interactive
- * @author 		Tarcísio Estevam - tarcisioestevam@gmail.com (http://www.tarcisioestevam.com.br)
+ * @author 	Tarcísio Estevam - tarcisioestevam@gmail.com (http://www.tarcisioestevam.com.br)
  * @license    	Comercial
  * @version    	1.0
- * @package		library.frontise.view.helper
+ * @package	library.frontise.view.helper
  *
  */
 class Frontise_View_Helper_BaseUrl
